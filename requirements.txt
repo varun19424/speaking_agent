@@ -1,0 +1,15 @@
+streamlit
+PyMuPDF
+faiss-cpu
+sentence-transformers
+openai
+speechrecognition
+pyaudio
+duckduckgo-search
+langchain
+pypdf
+tiktoken
+langchain_openai
+wikipedia
+pyttsx3
+gradio==4.27.0
